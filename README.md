@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Suraj Singh Chahar</h1>
 <h3 align="center">A Passionate MERN Stack Developer.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY3MDA5NGMzOTY5N2ExN2QyNjJiNTRhYmY5MWIwMmY2ZGExODczOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/1fCsBqAj0rA67xGp4n/giphy.gif">
